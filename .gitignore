@@ -29,7 +29,6 @@ hs_err_pid*
 *.iml
 .idea
 .code
-.vscode
 
 # Ballerina
 Ballerina.lock
@@ -41,3 +40,5 @@ Ballerina.lock
 
 #Ballerina
 Config.toml
+config.bat
+node_modules
